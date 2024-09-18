@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-verse</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="crazy-frog"/>
   <readme>
     <ru>2ca67f08b3f0c8775b088c76292fa8211f0141040c2ca06b7c1b9e7ce5489b60</ru>
@@ -44,7 +44,7 @@
     <bpm>129</bpm>
     <lowestNote>86</lowestNote>
     <tonalities>5</tonalities>
-    <video name="2-noch-3.mp4" size="1974881" type="video/mp4" volume="1">e4fa59faaeb61d94aca43064b19a6996e5b1fdc50a6faa81cb4580506f75d0b4</video>
+    <video name="2-noch-3.mp4" size="1981539" type="video/mp4" volume="1">1a68d5ddd7042c3ac2f3ae047b5a296fbca758f545a051bb3c2cf6079d5ab378</video>
     <notes>
       <note number="1" values="4" ticks="97" durationTicks="31" ppq="96" velocity="0.887"/>
       <note number="2" values="4" ticks="146" durationTicks="36" ppq="96" velocity="0.787"/>
