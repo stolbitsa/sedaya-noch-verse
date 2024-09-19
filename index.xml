@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-verse</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="stolbitsa" repo="crazy-frog"/>
   <readme>
     <ru>2ca67f08b3f0c8775b088c76292fa8211f0141040c2ca06b7c1b9e7ce5489b60</ru>
@@ -146,6 +146,24 @@
       <note number="4" values="28" ticks="385" durationTicks="30" ppq="96" velocity="0.717"/>
       <note number="5" values="28" ticks="434" durationTicks="90" ppq="96" velocity="0.89"/>
       <note number="6" values="18" ticks="530" durationTicks="139" ppq="96" velocity="0.89"/>
+    </notes>
+  </exercise>
+  <exercise number="10">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="2-noch-10.mp4" size="1897039" type="video/mp4" volume="1">5c55816042b228fd9e5e675da028f2daf37a664ff969e737783977bc6799673e</video>
+    <notes>
+      <note number="1" values="4" ticks="97" durationTicks="31" ppq="96" velocity="0.882"/>
+      <note number="2" values="4" ticks="146" durationTicks="36" ppq="96" velocity="0.78"/>
+      <note number="3" values="4" ticks="193" durationTicks="37" ppq="96" velocity="0.882"/>
+      <note number="4" values="3" ticks="241" durationTicks="86" ppq="96" velocity="0.724"/>
+      <note number="5" values="5" ticks="336" durationTicks="144" ppq="96" velocity="0.89"/>
+      <note number="6" values="4" ticks="480" durationTicks="41" ppq="96" velocity="0.89"/>
+      <note number="7" values="4" ticks="529" durationTicks="86" ppq="96" velocity="0.89"/>
+      <note number="8" values="3" ticks="673" durationTicks="48" ppq="96" velocity="0.89"/>
+      <note number="9" values="1" ticks="723" durationTicks="87" ppq="96" velocity="0.89"/>
     </notes>
   </exercise>
 </level>
