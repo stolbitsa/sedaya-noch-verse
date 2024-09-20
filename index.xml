@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-verse</repo>
-  <version>v1.0.11</version>
-  <next number="1" owner="stolbitsa" repo="crazy-frog"/>
+  <version>v1.0.12</version>
+  <next number="1" owner="stolbitsa" repo="sedaya-noch-intro"/>
   <readme>
-    <ru>2ca67f08b3f0c8775b088c76292fa8211f0141040c2ca06b7c1b9e7ce5489b60</ru>
-    <en>606c17935ebd53887e11cbee7aa9d390b9172845030ac5280cdbdbd0d6950653</en>
+    <ru>8944f6add0865cfa1336e97bbd526835dcbe9cfd78d00bb28f4efb7da7b415ef</ru>
+    <en>a3683bc8533233f3f66f31f8f8333d251ba5ddf51ef969af95a14d552cbf050b</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -163,7 +163,7 @@
       <note number="6" values="4" ticks="480" durationTicks="41" ppq="96" velocity="0.89"/>
       <note number="7" values="4" ticks="529" durationTicks="86" ppq="96" velocity="0.89"/>
       <note number="8" values="3" ticks="673" durationTicks="48" ppq="96" velocity="0.89"/>
-      <note number="9" values="1" ticks="723" durationTicks="87" ppq="96" velocity="0.89"/>
+      <note number="9" values="1" ticks="723" durationTicks="90" ppq="96" velocity="0.89"/>
     </notes>
   </exercise>
 </level>
