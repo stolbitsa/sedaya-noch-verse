@@ -2,8 +2,8 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-verse</repo>
-  <version>v1.0.14</version>
-  <next number="1" owner="stolbitsa" repo="sedaya-noch-intro"/>
+  <version>v1.0.15</version>
+  <next number="1" owner="stolbitsa" repo="sedaya-noch-chorus"/>
   <readme>
     <ru>44368ee89dcaed5310be8caf49b5a9929f6de8c4a78fe48136550747b7f667ce</ru>
     <en>dbca3117dbf53cd897c5dc0a6872bb7a5b58e6d282da2cb5cd36af131993c372</en>
