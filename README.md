@@ -3,7 +3,7 @@
 
 # Седая ночь - Первый куплет - Юрий Шатунов
 Автор музыки и слов - Сергей Кузнецов.
-![image](https://github.com/user-attachments/assets/e78bd7bd-16ba-4db0-bb03-b1cee1471ccb)
+
 ![image](https://github.com/user-attachments/assets/c2d798c6-03b5-4c4c-8f33-432e4c19d72b)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e7DGkk00OW8" title="Седая ночь - Вступление - Юрий Шатунов" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
